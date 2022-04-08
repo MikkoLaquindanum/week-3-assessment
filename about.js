@@ -1,7 +1,7 @@
 console.log("hello world");
 
 const compliment = () => {
-	alert('#compliments')
+	alert('#compliments-from-chef')
 }
 
 let feels = document.querySelector('img')
